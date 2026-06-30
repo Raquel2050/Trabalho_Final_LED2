@@ -26,7 +26,7 @@ O sistema também realiza experimentos para avaliar o desempenho, o consumo de m
 ## Estrutura do Projeto
 
 ```text
-Trabalho_Final_LED2/
+Projeto/
 │
 ├── data/
 │   └── usuarios.txt
@@ -40,6 +40,7 @@ Trabalho_Final_LED2/
 │   └── sistema.exe
 │
 ├── testes/
+|__ Relatorio/
 │
 └── README.md
 ```
